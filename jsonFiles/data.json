@@ -1,0 +1,31 @@
+[
+
+      {
+        "name":"John Doe",
+        "age":21,
+        "grades": {
+          "math":85,
+          "physics":100,
+          "chemistry":76
+}
+    },
+    {
+        "name":"Jane Smith",
+        "age":23,
+        "grades": {
+          "math":92,
+          "physics":99,
+          "chemistry":85
+}
+    },
+    {
+        "name":"Emily Johnson",
+        "age":20,
+        "grades": {
+           "math":79,
+           "physics":100,
+           "chemistry":91
+}
+    }
+
+]
